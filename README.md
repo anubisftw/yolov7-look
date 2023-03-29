@@ -6,4 +6,7 @@ To use this model, you'll need to have the following dependencies installed:
 * PyTorch
 * NumPy
 * OpenCV
-![Unknown-38](https://user-images.githubusercontent.com/113937079/228612517-9c13944a-b99d-44a3-9c24-66110a083156.png)
+
+![image](https://user-images.githubusercontent.com/113937079/228612613-734f1b3f-ed34-4d65-9cb5-bb777a40e79b.png)
+
+
