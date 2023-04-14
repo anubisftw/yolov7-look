@@ -7,6 +7,7 @@ To use this model, you'll need to have the following dependencies installed:
 * NumPy
 * OpenCV
 
+
 ![image](https://user-images.githubusercontent.com/113937079/228612613-734f1b3f-ed34-4d65-9cb5-bb777a40e79b.png)
 
 
